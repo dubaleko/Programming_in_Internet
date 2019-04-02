@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="aircraft">
+    <void property="amountoffuel">
+     <int>55</int>
+    </void>
+    <void property="capacity">
+     <int>15</int>
+    </void>
+    <void property="carrying">
+     <int>200</int>
+    </void>
+    <void property="colorofaircraft">
+     <string>green</string>
+    </void>
+    <void property="nameofaircraft">
+     <string>X-153</string>
+    </void>
+    <void property="rangeofflight">
+     <int>740</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="aircraft">
+    <void property="amountoffuel">
+     <int>2754</int>
+    </void>
+    <void property="capacity">
+     <int>2</int>
+    </void>
+    <void property="carrying">
+     <int>320</int>
+    </void>
+    <void property="colorofaircraft">
+     <string>blue</string>
+    </void>
+    <void property="nameofaircraft">
+     <string>CY-30</string>
+    </void>
+    <void property="rangeofflight">
+     <int>2100</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

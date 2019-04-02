@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type= "text/xsl" version="2.0" href = "air.xsl"?>
+<arrayair  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="air.xsd">
+    <aircraft>
+        <color>black</color>
+        <name>ATR - 72</name>
+        <range>1300</range>
+        <amount>1570</amount>
+        <carrying>500</carrying>
+        <capacity>10</capacity>
+    </aircraft>
+    <aircraft>
+        <color>white</color>
+        <name>Cy - 7</name>
+        <range>1130</range>
+        <amount>1350</amount>
+        <carrying>300</carrying>
+        <capacity>2</capacity>
+    </aircraft>
+    <aircraft>
+        <color>green</color>
+        <name>An - 12</name>
+        <range>7200</range>
+        <amount>5000</amount>
+        <carrying>2000</carrying>
+        <capacity>200</capacity>
+    </aircraft>
+</arrayair>
