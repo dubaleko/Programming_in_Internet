@@ -1,4 +1,4 @@
-public class Client1 {
+public class Client2 {
 
     public static String ipAddr = "localhost";
     public static int port = 8080;
