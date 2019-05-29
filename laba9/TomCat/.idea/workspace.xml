@@ -7,11 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5bcce46-7a4e-42e6-b9e5-187d0e25aa37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../laba 6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba 6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laba 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laba8/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba8/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laba8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laba8/log/air.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba8/log/air.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../laba8/out/production/laba8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../laba8/out/production/laba8/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/ClientSomthing$ReadMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/ClientSomthing$ReadMsg.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/ClientSomthing$WriteMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/ClientSomthing$WriteMsg.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/ClientSomthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/ClientSomthing.class" afterDir="false" />
@@ -31,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -69,7 +74,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,17 +88,25 @@
             </path>
             <path>
               <item name="TomCat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TomCat" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCat" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,11 +174,15 @@
       <updated>1556089244976</updated>
       <workItem from="1556089270993" duration="909000" />
       <workItem from="1556090671354" duration="79000" />
+      <workItem from="1557855516316" duration="130000" />
+      <workItem from="1557856247895" duration="536000" />
+      <workItem from="1558509179994" duration="53000" />
+      <workItem from="1559061973079" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="988000" />
+    <option name="totallyTimeSpent" value="1747000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +196,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -219,10 +235,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

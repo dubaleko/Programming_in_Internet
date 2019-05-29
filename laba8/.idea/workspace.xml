@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cc31041-82d9-4042-806b-c89e9806e56f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../laba 6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba 6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/air.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/air.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/TomCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/TomCat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing$ReadMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing$ReadMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing$WriteMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing$WriteMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/ClientSomthing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/ServerSomthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/ServerSomthing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba9/target/classes/Story.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba9/target/classes/Story.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state relative-caret-position="51">
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/log/air.log">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="17" />
+              <caret selection-end-line="16" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -64,7 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,16 +105,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554235511456" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559086427103" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.3345281" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Labs\2 sem\Программирование в Internet\laba8\library" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,6 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554104885673</updated>
+      <workItem from="1556711312992" duration="39000" />
+      <workItem from="1558439626666" duration="318000" />
+      <workItem from="1558475566579" duration="196000" />
+      <workItem from="1558475871415" duration="632000" />
+      <workItem from="1559073762445" duration="1000000" />
+      <workItem from="1559082369108" duration="1957000" />
     </task>
     <task id="LOCAL-00001" summary="Update labs">
       <created>1554235361640</created>
@@ -163,6 +191,9 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4142000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -175,14 +206,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27315435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29731545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.1898017" />
@@ -195,6 +228,8 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -204,7 +239,11 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update labs" />
@@ -214,27 +253,27 @@
     <entry file="file://$PROJECT_DIR$/log/log4j.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="db://b811ab26-1b7e-4438-8fc4-b69855bf826f/consoles/MySql_Database">
-      <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="db://b811ab26-1b7e-4438-8fc4-b69855bf826f/consoles/MySql_Database" />
+    <entry file="file://$PROJECT_DIR$/log/air.log.2019-04-10">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/log/air.log">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="17" />
+          <caret selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/air.log.2019-05-21">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -294,7 +333,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3345281" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -302,11 +342,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>log4j-1.2.17</last-edited>
+          <last-edited>mysql-connector-java-5.1.24-bin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3345281" />
               </list>
             </option>
           </splitter-proportions>
