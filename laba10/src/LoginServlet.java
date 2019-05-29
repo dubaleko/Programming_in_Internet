@@ -1,5 +1,6 @@
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -17,6 +18,7 @@ public class LoginServlet extends HttpServlet {
     private boolean flag = false;
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException  {
+
         try {
             Class.forName("com.mysql.jdbc.Driver");
             Connection connection = DriverManager.getConnection(url, name, password);
@@ -37,7 +39,9 @@ public class LoginServlet extends HttpServlet {
             }
 
             if (!username.isEmpty() && !password.isEmpty() && flag) {
-                request.getRequestDispatcher("/WEB-INF/MainWindow.jsp").forward(request, response);
+                request.setAttribute("newusername", username);
+                request.setAttribute("date", new Date());
+                this.getServletContext().getRequestDispatcher("/WEB-INF/MainWindow.jsp").forward(request, response);
                 try
                 {
                     writer.println("<p>Hello dear: " + username + "  Now time on server:  "+ new Date() +"</p>");
@@ -49,7 +53,7 @@ public class LoginServlet extends HttpServlet {
             }
             else
                 {
-                    writer.println("Error of sign in");
+                 request.getRequestDispatcher("Register.jsp").forward(request,response);
                 }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

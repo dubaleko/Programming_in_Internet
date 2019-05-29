@@ -12,7 +12,7 @@
     <title>Title</title>
 </head>
 <body>
-<br/><br/>
+<br/>
 <form action="sign" method="POST">
    Username: <input name = "username" />
     <br/><br/>

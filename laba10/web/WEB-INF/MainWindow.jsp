@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-
+Hello <%out.println(request.getAttribute("newusername").toString());%> time on server <%out.println(request.getAttribute("date").toString());%>
 </body>
 </html>
