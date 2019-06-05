@@ -16,8 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 public class RegisterServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         try {
-            response.setContentType("text/html");
-            PrintWriter writer = response.getWriter();
             String username = request.getParameter("username");
             String password = request.getParameter("password");
             String retry = request.getParameter("retry");

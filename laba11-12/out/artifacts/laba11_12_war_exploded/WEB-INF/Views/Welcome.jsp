@@ -9,6 +9,15 @@ Hello <%out.println(request.getAttribute("newusername").toString());%> Now date 
 <br/><br/>
 Your friends list
 <br/><br/>
+<form action="info" method="POST">
+    Name: <input name = "name" />
+    <br/><br/>
+    Phone: <input name = "phone" />
+    <br/><br/>
+    Email: <input name="email" >
+    <input type="submit" value="Add" />
+</form>
+<br/>
 <table border="1">
     <tr>
         <td>Name</td>

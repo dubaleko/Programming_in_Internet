@@ -13,8 +13,9 @@ import java.util.Date;
 public class LoginServlet extends HttpServlet {
 
     public static  String url = "jdbc:mysql://localhost:3306/laba10";
-    public   static  String name ="root";
-    public  static  String password = "1234";
+    public static  String name ="root";
+    public static  String password = "1234";
+    public  static  String Name;
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException  {
         ArrayList<User> list  = new ArrayList<User>();
@@ -22,9 +23,8 @@ public class LoginServlet extends HttpServlet {
             Class.forName("com.mysql.jdbc.Driver");
             Connection connection = DriverManager.getConnection(url, name, password);
             Statement statement =  connection.createStatement();
-            response.setContentType("text/html");
-            PrintWriter writer = response.getWriter();
             String username = request.getParameter("username");
+            Name = username;
             String password = request.getParameter("password");
 
             if (username.isEmpty() || password.isEmpty() ){
